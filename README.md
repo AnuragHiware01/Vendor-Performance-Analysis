@@ -12,12 +12,12 @@ Improve overall profitability through strategic vendor optimization
 📁 Project Structure
 text
 Vendor-Performance-Analysis/
-├── data/                    # Raw and processed datasets
-├── notebooks/               # Jupyter notebooks for analysis
-├── scripts/                 # Python scripts for data processing
-├── reports/                 # Generated reports and insights
-├── dashboards/              # Interactive visualization files
-└── documentation/           # Project documentation
+data/                    # Raw and processed datasets
+notebooks/               # Jupyter notebooks for analysis
+scripts/                 # Python scripts for data processing
+reports/                 # Generated reports and insights
+dashboards/              # Interactive visualization files
+documentation/           # Project documentation
 🛠️ Technologies Used
 Programming: Python, SQL
 Data Analysis: Pandas, NumPy, Jupyter Notebook
